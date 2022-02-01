@@ -8,4 +8,4 @@
 
 - 🤓 _About me:_ I have been a teacher since 2011, teaching technology at various levels of education. I am MSc in Technological Education and Researcher, doing scientific research on technology and education.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaratryber&theme=prussian&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratryber&layout=compact)](https://github.com/tamaratryber/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaratryber&theme=prussian&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaratryber&theme=prussian)](https://github.com/tamaratryber/github-readme-stats)
