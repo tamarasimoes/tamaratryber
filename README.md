@@ -6,4 +6,4 @@
 
 - 😄 _Pronouns:_ She/Her
 
-- 🤓 _About me:_ I have been a teacher since 2011, teaching technology at various levels of education. I am MSc in Technological Education and Scientific Researcher, doing scientific research on technology and education.
+- 🤓 _About me:_ I have been a teacher since 2011, teaching technology at higher education. I'm front-end developer, graphic designer and MSc in Technological Education / Scientific Researcher, doing scientific research on technology and education.
